@@ -1,0 +1,10 @@
+GET http://localhost:8080/mesaj
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-05-28T213150.404.json
+
+###
+
